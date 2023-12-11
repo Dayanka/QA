@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-## Here u can see my projects during the course  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+## Here you can see my projects during the course  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - :telescope: I’m working as a information security specialist for 2 years and also study in uni (1 year left) 
 - :seedling: Exploring Qality Assurance
 - :zap: In my free time, I play volleyball and study English
